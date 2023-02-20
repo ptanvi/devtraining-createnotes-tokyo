@@ -5,15 +5,15 @@
         <status>allowed</status>
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-30 19:11:50</sys_created_on>
-        <sys_id>7602dfe0db7133000613a08a48961961</sys_id>
-        <sys_name>Glide API: scripting</sys_name>
+        <sys_created_on>2023-02-20 05:38:07</sys_created_on>
+        <sys_id>6a2d563e9705a110d6c7bee3f153af33</sys_id>
+        <sys_name>ResourceSupport</sys_name>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
-        <sys_update_name>sys_scope_privilege_7602dfe0db7133000613a08a48961961</sys_update_name>
-        <target_name>Glide API: scripting</target_name>
+        <sys_update_name>sys_scope_privilege_6a2d563e9705a110d6c7bee3f153af33</sys_update_name>
+        <target_name>ResourceSupport</target_name>
         <target_scope display_value="Global">global</target_scope>
-        <target_type>scriptable</target_type>
+        <target_type>sys_script_include</target_type>
     </sys_scope_privilege>
 </record_update>
